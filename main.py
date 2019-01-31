@@ -21,3 +21,4 @@ button_1.grid(columnspan=2)
 button_2.grid(columnspan=2)
 
 root.mainloop()
+#lol
